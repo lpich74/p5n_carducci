@@ -258,6 +258,20 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.local {
+	margin-top: 12px;
+	margin-bottom: 16px;
+}
+.local-slogan {
+	font-family: 'Spectral';
+	font-weight: 800;
+	font-style: italic;
+	font-size: 1.1em;
+}
+.local address {
+	margin-top: 16px;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
